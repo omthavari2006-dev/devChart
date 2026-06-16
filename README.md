@@ -111,3 +111,16 @@ managing teams
 
 
 ![image alt](https://github.com/omthavari2006-dev/devChart/blob/8e5317fc9d24aa006663a89ddf2ca2661353fe14/Screenshot%202026-06-16%20163748.png)
+
+
+team details 
+
+
+![image](https://github.com/omthavari2006-dev/devChart/blob/a38c3b19a3c2b7cd1efaf2b284a3424c4c9064a3/Screenshot%202026-06-16%20163806.png)
+
+
+
+
+
+
+
