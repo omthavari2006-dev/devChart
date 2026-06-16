@@ -109,3 +109,5 @@ dashboard /kanban
 
 managing teams 
 
+
+![image alt](https://github.com/omthavari2006-dev/devChart/blob/8e5317fc9d24aa006663a89ddf2ca2661353fe14/Screenshot%202026-06-16%20163748.png)
