@@ -116,11 +116,12 @@ managing teams
 team details 
 
 
-![image](https://github.com/omthavari2006-dev/devChart/blob/a38c3b19a3c2b7cd1efaf2b284a3424c4c9064a3/Screenshot%202026-06-16%20163806.png)
+![image alt](https://github.com/omthavari2006-dev/devChart/blob/a38c3b19a3c2b7cd1efaf2b284a3424c4c9064a3/Screenshot%202026-06-16%20163806.png)
 
 
+create task
 
-
+![image alt](https://github.com/omthavari2006-dev/devChart/blob/1d67cbfb89fdb0d27ba56d179a5a67f5b3bcc457/Screenshot%202026-06-16%20163846.png)
 
 
 
