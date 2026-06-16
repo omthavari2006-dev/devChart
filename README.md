@@ -102,8 +102,10 @@ MONGODB_URI
 
 
 
-dashboard 
+dashboard /kanban
 
 ![image alt](https://github.com/omthavari2006-dev/devChart/blob/b095c71768c064e75a2658420c81eddcefce3566/Screenshot%202026-06-16%20163647.png)
 ![image alt](https://github.com/omthavari2006-dev/devChart/blob/396a2b7fdb230bf3737cb10e59cee04902954ece/Screenshot%202026-06-16%20163728.png)
+
+managing teams 
 
