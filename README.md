@@ -1,36 +1,103 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# DevChart - Club Collaboration Platform
 
-## Getting Started
+DevChart is a web-based collaboration platform designed for clubs and teams to manage tasks efficiently. It provides team management, task assignment, member management, and a Kanban-style workflow to organize work into different stages.
 
-First, run the development server:
+The platform helps teams coordinate activities, assign responsibilities, and track progress through an intuitive interface.
 
-```bash
+
+## Features Implemented
+
+### Task Management
+- Create tasks
+- Delete tasks
+- Update tasks
+- Automatic priority generation based on deadlines
+- Task checklist (subtasks)
+- Automatic deletion of expired tasks
+
+### Team Management
+- Create teams
+- Delete teams
+- View team details
+- Add members to teams
+- Persistent member storage using MongoDB
+
+### Team Assignment
+- Assign tasks to specific teams
+- Display assigned team information on task cards
+- Support for common tasks without a team assignment
+
+### Kanban Board
+- To Do
+- In Progress
+- Done
+- Move tasks between stages
+
+### Notifications
+- Toast notifications using Sonner
+
+
+## Technology Stack
+
+### Frontend
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+
+### Backend
+- Next.js API Routes
+- Node.js
+
+### Database
+- MongoDB
+- Mongoose
+
+### Additional Libraries
+- Sonner
+
+
+## Setup Instructions
+
+### Clone Repository
+
+git clone https://github.com/omthavari2006-dev/devChart.git
+
+### Install Dependencies
+
+npm install
+
+### Create Environment File
+
+Create a .env.local file and add:
+
+MONGODB_URI=your_mongodb_connection_string
+
+### Run Development Server
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+http://localhost:3000
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Deployment Instructions
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Push the latest code to GitHub.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+2. Sign in to Vercel.
 
-## Deploy on Vercel
+3. Import the GitHub repository.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. Add the environment variable:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+MONGODB_URI
+
+5. Deploy the project.
+
+6. Access the live application using the generated Vercel URL.
+
+
+
